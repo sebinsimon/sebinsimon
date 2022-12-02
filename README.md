@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sebinsimon
-- 👀 I’m interested in Artificial Intelligence, full stack web development
-- 🌱 I’m currently learning: Computer Science with AI
+- 🌱 I’m currently studying: Computer Science with AI
+- 👀 I’m interested in developing ML applications
+
 
 <!---
 sebinsimon/sebinsimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
