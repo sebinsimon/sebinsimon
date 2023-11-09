@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebinsimon
-- 🌱 I’m currently studying: Computer Science with AI
+- 🌱 I’m currently studying: MSc AI
 - 👀 I’m interested in developing ML applications
 
 
